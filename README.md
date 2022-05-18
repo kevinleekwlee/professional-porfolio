@@ -6,7 +6,7 @@ This repository contains my professional porfolio. It includes placeholders for 
 
 ## Usage
 
-This website can be accessed at https://kevinleekwlee.github.io/professional-porfolio/
+This website can be accessed at https://kevinleekwlee.github.io/professional-portfolio/
 
 Below is a screenshot of the website. 
 
